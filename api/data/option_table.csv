@@ -1,0 +1,15 @@
+category_id,option_id,option_cn_name,option_en_name
+3,1,褶皱,rouched
+3,2,木耳边,ruffled
+3,3,灯笼袖,lantern sleeve
+3,4,测试,test
+2,1,长袖,long sleeve
+2,2,短袖,short sleeve
+2,3,吊带,cami
+2,4,抹胸,tube top
+2,5,测试,test
+5,1,面条,noodles
+5,2,牛肉,beef
+5,3,汉堡,hamberger
+4,1,苹果,apple
+4,2,微软,miscrosoft

@@ -1,0 +1,45 @@
+.cg-container {
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    grid-auto-rows: 200px;
+    row-gap: 1em;
+}
+.cg-item {
+    border: solid;
+    display: grid;
+    height: 160px;
+    grid-template-columns: 1fr 1fr;
+}
+.cg-dropdown {
+    width: 80%;
+    margin-top: 35px;
+}
+.cg-add {
+    border: solid;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.cg-footer {
+    border: solid;
+    display: grid;
+    height: 300px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-template-columns: 2fr 1fr 1fr;
+}
+.buttonDIV-center {
+    text-align: center;
+    margin-top: 40px;
+}
+textarea {
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+.input-text {
+    margin-left: 10px;
+}

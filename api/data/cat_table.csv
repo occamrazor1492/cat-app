@@ -1,0 +1,5 @@
+category_id,category_en_name,category_cn_name,isMultiple
+3,other_feature,其他特征,1
+2,sleeve,袖子,1
+5,food,食物,1
+4,test,测试,0
