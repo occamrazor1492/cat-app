@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && mv -r ./build/index.html ./api/templates/index.html && mv -r ./build/static ./api/static",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
