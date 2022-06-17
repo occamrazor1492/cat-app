@@ -1,15 +1,91 @@
-category_id,option_id,option_cn_name,option_en_name
-3,1,褶皱,rouched
-3,2,木耳边,ruffled
-3,3,灯笼袖,lantern sleeve
-3,4,测试,test
-2,1,长袖,long sleeve
-2,2,短袖,short sleeve
-2,3,吊带,cami
-2,4,抹胸,tube top
-2,5,测试,test
-5,1,面条,noodles
-5,2,牛肉,beef
-5,3,汉堡,hamberger
-4,1,苹果,apple
-4,2,微软,miscrosoft
+category_id,option_id,option_cn_name,option_en_name,
+1,1,,ruched,褶饰
+1,2,,cross front,交叉前线
+1,3,,corss back,回击
+1,4,,hollow out,挖空
+1,5,,drewstring,拉绳
+1,6,,a line,一条线
+1,7,,slit,狭缝
+1,8,,pleated,打褶的
+1,9,,irregular,不规律的
+1,10,,patchwork,拼凑而成
+1,11,,off shoulder,离肩
+1,12,,stitch,缝
+2,1,,sheer,纯粹的
+2,2,,mesh,网
+2,3,,knitted,针织的
+2,4,,velvet,天鹅绒
+2,5,,satin,缎
+2,6,,corduroy,灯心绒
+2,7,,textured,有质感的
+2,8,,fluffy,蓬松的
+2,9,,denim,牛仔布
+2,10,,pu,可以
+2,11,,metallic,金属的
+2,12,,chiffon,薄纱
+2,13,,ribbed,罗纹
+2,14,,see through,看穿
+3,1,,tie dye,扎染
+3,2,,embroidery,刺绣
+4,1,,solid,坚硬的
+4,2,,plaid,格子
+4,3,,print,打印
+4,4,,beaded,串珠
+4,5,,xxx pattern,xxx 模式
+4,6,,polka dot,波尔卡开
+4,7,,striped,有条纹的
+4,8,,gradient,坡度
+4,9,,ripple,波纹
+4,10,,contrast,对比
+4,11,,abstract,抽象的
+5,1,,long sleeve,长袖
+5,2,,short sleeve,短袖
+5,3,,sleeveless,无袖的
+5,4,,cami,清真寺
+5,5,,spaghetti strap,意大利面条表带
+6,1,,halter,吊带裤
+6,2,,notch neck,缺口脖子
+6,3,,turnover collar,周转领
+6,4,,v neck,v 领
+6,5,,square neck,方领
+6,6,,v neck,v 领
+6,7,,cowl neck,围脖
+6,8,,heart neck,心颈
+6,9,,crewneck,圆领
+6,10,,high neck,高领
+6,11,,low cut,低胸
+6,12,,turtle,龟
+7,1,,beaded,串珠
+7,2,,zip-up,拉链拉上
+7,3,,lace up,花边
+7,4,,ruffle,褶边
+7,5,,bowknot,蝴蝶结
+7,6,,gloves,手套
+7,7,,hem lace,下摆蕾丝
+7,8,,xxx applique,xxx申请
+7,9,,feather,羽毛
+7,10,,metal chain,金属链
+7,11,,button,按钮
+7,12,,beaded,串珠
+7,13,,o ring,o 环
+7,14,,metal tag,金属标签
+8,1,,padded,软垫
+8,2,,corset,紧身胸衣
+8,3,,bustier,紧身胸衣
+8,4,,bralette,文胸
+9,1,,top,最佳
+9,2,,crop top,作物顶部
+9,3,,tube top,管顶
+9,4,,cami top,吊带背心
+10,1,,dress,裙子
+10,2,,tube dress,抹胸连衣裙
+10,3,,cami dress,吊带连衣裙
+10,4,,mini dress,迷你裙
+10,5,,midi dress,中长连衣裙
+10,6,,maxi dress,长连衣裙
+11,1,,pants,裤子
+11,2,,jeans,牛仔裤
+12,1,,swimwear,游泳衣
+13,1,,jumsuit,连身衣
+14,1,,romper,休息
+15,1,,bodysuit,紧身衣裤
